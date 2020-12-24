@@ -1,6 +1,6 @@
 {
- "my_string": "githubtest",
- "my_int": 9777,
- "my_boolean": true,
- "my_password": "tibco123"
+ "my_string": "githubtestupdated",
+ "my_int": 11111,
+ "my_boolean": false,
+ "my_password": "password123#"
  }
